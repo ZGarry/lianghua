@@ -2,6 +2,7 @@
 from __future__ import print_function, absolute_import
 from gm.api import *
 import talib
+# 单双均线没有任何意义可言
 
 
 # 策略中必须有init方法

@@ -1,6 +1,7 @@
 # coding=utf-8
 # 本地回测保持和客户端的策略id一致，就可以输出回测报告
 # 客户端中数据管理可以查找关注股票的编号
+# 单双均线没有任何意义可言
 from __future__ import print_function, absolute_import
 from gm.api import *
 import talib

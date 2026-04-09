@@ -13,7 +13,7 @@ import pandas as pd
 
 # 常量设置
 API_TOKEN = "59e9c8cd18899c191fa133d4cdb08d66efba3dd9"
-N_DAYS = 30  # 查找新低的天数范围
+N_DAYS = 60  # 查找新低的天数范围
 INDEX_CODE = 'SHSE.000300'  # 沪深300指数的代码
 
 def setup_api():
